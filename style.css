@@ -1,0 +1,80 @@
+.card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    padding: 20px;
+}
+
+.login-container {
+    height: 100vh;
+}
+
+.my-btn {
+    background-color: orange !important;
+    width: 100%;
+    border-color: orange !important;
+}
+
+.my-header {
+    background-color: orange !important;
+}
+
+.theme-btn {
+    color: orange !important;
+    background-color: #fff !important;
+}
+
+.navbar-brand {
+    margin-bottom: 5px !important;
+}
+
+.my-card {
+    height: 170px !important;
+}
+
+.my-card>div>h4 {
+    font-size: 18px;
+}
+
+.my-card>div>span {
+    font-size: 14px;
+    color: orange;
+}
+
+.theme-btn-a {
+    background-color: orange !important;
+    width: 100%;
+    border-color: orange !important;
+    margin-top: 10px;
+}
+
+.product-price {
+    color: orange;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.del-price {
+    color: grey;
+    font-weight: normal;
+}
+
+.product-card {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.sale-badge {
+    background-color: orange;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
